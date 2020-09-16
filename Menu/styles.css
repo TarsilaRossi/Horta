@@ -1,0 +1,232 @@
+/* logo_laranjado 
+position: absolute;
+width: 20.45px;
+height: 30px;
+left: 180px;
+top: 44px;
+background: #F4935C;
+
+/* HORTA 
+position: absolute;
+width: 71px;
+height: 44px;
+left: 205px;
+top: 40px;
+font-family: Anton;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 44px;
+
+/* identical to box height 
+color: #E5F77D; */
+
+*{
+    margin: 0px;
+}
+
+.navbar{
+    min-height: 200px;
+    background-color: #373B4D;
+}
+.nav-link{
+    position: absolute;
+    width: 54px;
+    height: 22px;
+    left: 646px;
+    top: 43px;
+    color: #ECE7DA;
+}
+
+
+/* Home */
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #ECE7DA;
+
+/* Plantas */
+
+position: absolute;
+width: 69px;
+height: 21px;
+left: 747px;
+top: 43px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #ECE7DA;
+
+/* green_selection */
+
+position: absolute;
+width: 69px;
+height: 0px;
+left: 747px;
+top: 69px;
+
+border: 2px solid #E5F77D;
+
+/* Pragas */
+
+position: absolute;
+width: 64px;
+height: 29px;
+left: 863px;
+top: 43px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #ECE7DA;
+
+/* Inscreva-se */
+
+position: absolute;
+width: 106px;
+height: 29px;
+left: 974px;
+top: 43px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #ECE7DA;
+
+/* Entrar */
+
+position: absolute;
+width: 55px;
+height: 29px;
+left: 1128px;
+top: 43px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #F4935C;
+
+/* botao_entrar */
+
+position: absolute;
+width: 80px;
+height: 44px;
+left: 1115px;
+top: 35px;
+
+background: #E5F77D;
+border-radius: 30px;
+
+/* lupa */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1229px;
+top: 38px;
+
+background: #F4935C;
+
+/* NAVBAR - após login */
+
+/* Home */
+
+position: absolute;
+width: 54px;
+height: 22px;
+left: 666px;
+top: 43px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #ECE7DA;
+
+/* Plantas */
+
+position: absolute;
+width: 69px;
+height: 21px;
+left: 789px;
+top: 43px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #ECE7DA;
+
+/* Pragas */
+
+position: absolute;
+width: 64px;
+height: 29px;
+left: 927px;
+top: 43px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #ECE7DA;
+
+/* Foto perfil */
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1060px;
+top: 37px;
+
+background: url(foto_perfil.jpg);
+border-radius: 200px;
+
+/* Logout */
+
+position: absolute;
+width: 63px;
+height: 29px;
+left: 1173px;
+top: 44px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 29px;
+
+color: #F4935C;
+
+/* botao_entrar */
+
+position: absolute;
+width: 85px;
+height: 44px;
+left: 1162px;
+top: 36px;
+
+background: #E5F77D;
+border-radius: 30.9015px;
